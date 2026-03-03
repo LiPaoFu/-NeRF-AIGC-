@@ -1,0 +1,2 @@
+feature,radius_ratio,nerf_n,nerf_mean,nerf_std,real_n,real_mean,real_std,test,p_value
+high_freq_power_ratio,0.25,250,0.010052791283502949,0.005556312237438884,30,0.0033223505235330255,0.0019130237177973001,Mann-Whitney U,1.1801754830645334e-14
