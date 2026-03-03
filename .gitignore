@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.pyc
+
+# editor
+.idea/
+.vscode/
+
+# outputs
+runs/
+results/logs/
+
+# model weights
+models/*.pt
+models/*.pth
